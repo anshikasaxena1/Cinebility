@@ -4,6 +4,13 @@
 -header
 -login form
  - sign up form 
+-form validation
+-useRef hooks
+-firebase setup
+-Deploying app to production
+:Authentication
+-create sign up user account
+
 
 #Features
 -login/ sign up 
@@ -19,4 +26,5 @@
 -Cinebility
     -search bar
     -movie suggestions 
-https://wallpapercave.com/wp/wp9102418.jpg
+...link for live running app
+https://cinebility-abf73.web.app
